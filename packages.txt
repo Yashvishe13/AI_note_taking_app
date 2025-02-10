@@ -1,3 +1,2 @@
 weasyprint
 pango-1.0-0
-glib
